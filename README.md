@@ -1,33 +1,33 @@
-# Umate
+# U Mate
 
-🎉 단국대 학생이라면 누구나,  U Mate 🎉
+<div align="center">
+  <img alt="U Mate Banner" src="https://github.com/user-attachments/assets/d7fe76b7-719b-42f8-90b2-98843e71422c" />
+</div>
 
-📍학생 편의 기능
-학생들의 편의를 위해 단국대학교의 여러 문제점을 탐색하고, 이를 해결하기 위한 솔루션을 마련하고 있습니다.
-예를 들어 축제 티켓팅 서비스, 학교 버스 정보, 수강 신청 개선 등은  U Mate가 집중적으로 연구하고 있는 주제입니다.
+<br />
 
-📍시간표 기능
-U학생들의 수업, 알바, 개인 일정 등을 관리하기 위해 시간표 기능을 제공하고 있으며, 학교 수업의 경우 검색을 통해 쉽게 추가하고 관리할 수 있습니다.
+<div align="center">
+  <img alt="App Screenshots" src="https://github.com/user-attachments/assets/e09289fa-b960-4c05-ba88-3ba50ddec5de" />
+</div>
 
-📍총학생회 공지 및 이벤트 안내 기능
-총학생회와 협업하여 총학생회의 공지사항과 이벤트를 배너 및 푸시 알림을 통해 안내하고 있습니다.
-이를 통해 학생들에게 유용한 사항들을 보다 손쉽게 전달하는 것을 목표로 하고 있습니다.
+<br />
 
-## 어플리케이션 목적
-학생들을 위한 커뮤니티 형성 및 편의 기능 제공
+## ✨ Features
 
-## 어플리케이션 목표
-현재 전국 대부분의 대학교에 자리잡은 에브리타임 이용률을 우리 학교에서 만큼은 Danvery로 바꾸는 것
+### 📍 학생 편의 기능
+학생들의 편의를 위한 **축제 티켓팅 서비스**, **교내 버스 정보**, **커뮤니티** 등의 기능을 제공합니다.
 
-## 어플리케이션 주요기능
-- 커뮤니티 제공(자유, 청원)
-- 총학생회에서 진행하는 이벤트, 제휴, 공지 전달
-- 시간표관리기능 제공
-- 단국대 주요 버스 도착 예정 정보 제공
+### 📅 시간표 기능
+학생들의 수업, 알바, 개인 일정 등을 관리할 수 있습니다.  
+학교 수업은 **검색을 통해 쉽게 추가**하고 관리할 수 있습니다.
 
-<img width="1024" alt="store_banner_1" src="https://github.com/user-attachments/assets/d7fe76b7-719b-42f8-90b2-98843e71422c" />
-<img width="1142" alt="스크린샷 2025-04-07 오후 2 43 21" src="https://github.com/user-attachments/assets/e09289fa-b960-4c05-ba88-3ba50ddec5de" />
+### 📢 총학생회 공지 및 이벤트
+총학생회와 협업하여 **공지사항**과 **이벤트**를 배너 및 푸시 알림으로 안내합니다.
 
-## Figma
-<img width="810" alt="스크린샷 2025-04-07 오후 2 40 15" src="https://github.com/user-attachments/assets/2bdaeea5-081d-41dd-bdb7-c4eca1c87fc5" />
+<br />
 
+## 🎨 Design
+
+<div align="center">
+  <img alt="Figma Design" src="https://github.com/user-attachments/assets/2bdaeea5-081d-41dd-bdb7-c4eca1c87fc5" />
+</div>
